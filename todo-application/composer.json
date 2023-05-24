@@ -1,0 +1,8 @@
+{
+    "require": {
+        "thingengineer/mysqli-database-class": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.6.3"
+    }
+}
